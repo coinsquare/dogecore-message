@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "dogecore-lib": "git+https://github.com/Dogesight/dogecore-lib.git"
+    "dogecore-lib": "github:coinsquare/dogecore-lib#semver:0.15.0"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
