@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-message",
   "version": "1.0.2",
+  "name": "dogecore-message",
   "description": "Bitcoin Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "^0.13.7"
+    "dogecore-lib": "git+https://github.com/Dogesight/dogecore-lib.git"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
